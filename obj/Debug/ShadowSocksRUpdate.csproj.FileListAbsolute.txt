@@ -1,0 +1,9 @@
+G:\程序\调试\ShadowSocksRUpdate\ShadowSocksRUpdate\bin\Debug\ShadowSocksRUpdate.exe.config
+G:\程序\调试\ShadowSocksRUpdate\ShadowSocksRUpdate\bin\Debug\ShadowSocksRUpdate.exe
+G:\程序\调试\ShadowSocksRUpdate\ShadowSocksRUpdate\bin\Debug\ShadowSocksRUpdate.pdb
+G:\程序\调试\ShadowSocksRUpdate\ShadowSocksRUpdate\obj\Debug\ShadowSocksRUpdate.csprojResolveAssemblyReference.cache
+G:\程序\调试\ShadowSocksRUpdate\ShadowSocksRUpdate\obj\Debug\ShadowSocksRUpdate.Properties.Resources.resources
+G:\程序\调试\ShadowSocksRUpdate\ShadowSocksRUpdate\obj\Debug\ShadowSocksRUpdate.csproj.GenerateResource.Cache
+G:\程序\调试\ShadowSocksRUpdate\ShadowSocksRUpdate\obj\Debug\ShadowSocksRUpdate.exe
+G:\程序\调试\ShadowSocksRUpdate\ShadowSocksRUpdate\obj\Debug\ShadowSocksRUpdate.pdb
+G:\程序\调试\ShadowSocksRUpdate\ShadowSocksRUpdate\obj\Debug\ShadowSocksRUpdate.Form1.resources
