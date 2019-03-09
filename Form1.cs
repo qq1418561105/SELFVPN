@@ -335,10 +335,10 @@ namespace FtpSyn
     public class FtpHelper
     {
         //基本设置
-        static private string path = @"ftp://" + "45.76.105.88" + "/";    //目标路径
-        static private string ftpip = "45.76.105.88";    //ftp IP地址
-        static private string username = "Download_SSR_Server_Guest";   //ftp用户名
-        static private string password = "qq970202ykbuqq";   //ftp密码
+        static private string path = @"ftp://" + "0.0.0.0" + "/";    //目标路径
+        static private string ftpip = "0.0.0.0";    //ftp IP地址
+        static private string username = "username";   //ftp用户名
+        static private string password = "password";   //ftp密码
 
         //获取ftp上面的文件和文件夹
         public static string[] GetFileList(string dir)
